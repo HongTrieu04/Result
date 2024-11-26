@@ -1,0 +1,22 @@
+Read data/GEMSGD_T5TokenizerFast_SGD_SchemaGuidedLinearizer_train
+Read data/GEMSGD_T5TokenizerFast_SGD_SchemaGuidedLinearizer_val
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+/root/SGD_NLG-main/test/lib/python3.10/site-packages/transformers/optimization.py:591: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+
+  | Name  | Type       | Params | Mode
+---------------------------------------------
+0 | model | PT_T5Model | 68.2 M | train
+---------------------------------------------
+7.7 M     Trainable params
+60.5 M    Non-trainable params
+68.2 M    Total params
+272.806   Total estimated model params size (MB)
+18        Modules in train mode
+277       Modules in eval mode
+Epoch 1:  80%|██████████████████████████████████████████████████             | 16400/20623 [1:25:57<22:08,  3.18it/s, v_num=L5-1, train_loss=0.0509, val_loss=0.041]
+/root/SGD_NLG-main/test/lib/python3.10/site-packages/transformers/modeling_utils.py:1126: FutureWarning: The `device` argument is deprecated and will be removed in v5 of Transformers.
+  warnings.warn(
+/root/SGD_NLG-main/test/lib/python3.10/site-packages/transformers/modeling_utils.py:1080: FutureWarning: The `device` argument is deprecated and will be removed in v5 of Transformers.
+  warnings.warn(
+                                                                                                                                                                    

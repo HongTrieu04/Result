@@ -1,0 +1,8 @@
+{"time":"2024-11-26T06:30:17.781998595Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-26T06:30:17.782046219Z","level":"INFO","msg":"created symlink","path":"wandb/run-20241126_063017-pt-t5-small-schema-L5-1/logs/debug-core.log"}
+{"time":"2024-11-26T06:30:17.889364116Z","level":"INFO","msg":"created new stream","id":"pt-t5-small-schema-L5-1"}
+{"time":"2024-11-26T06:30:17.889442168Z","level":"INFO","msg":"stream: started","id":"pt-t5-small-schema-L5-1"}
+{"time":"2024-11-26T06:30:17.889568012Z","level":"INFO","msg":"writer: Do: started","stream_id":"pt-t5-small-schema-L5-1"}
+{"time":"2024-11-26T06:30:17.889653537Z","level":"INFO","msg":"sender: started","stream_id":"pt-t5-small-schema-L5-1"}
+{"time":"2024-11-26T06:30:17.889758003Z","level":"INFO","msg":"handler: started","stream_id":"pt-t5-small-schema-L5-1"}
+{"time":"2024-11-26T06:30:18.712332919Z","level":"INFO","msg":"Starting system monitor"}
